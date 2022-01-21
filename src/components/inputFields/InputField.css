@@ -1,0 +1,13 @@
+/* input {
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid rgba(51, 51, 51, 0.445);
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+} */
